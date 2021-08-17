@@ -6,24 +6,18 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication
 {
-    class HelloWorld
+    class Operation
     {
         static void Main(string[] args)
         {
-            //First Hello World Typing in Console Application. Before start the co
-            Console.WriteLine("Hello World");
-            Console.ReadLine();
             
 
-
-            // C Sharp Operation Varriable Base 
-
-            /*int x = 100;
+            // Varriable base operation in Console Application with C# .NET Framework 
+            int x = 100;
             int y = 50;
             Console.WriteLine(x + y);
             Console.ReadLine();
-            */
-
+           
             // C Sharp Operation Varriable Base 
             /* int x = 100 + 5;
              Console.WriteLine(x);
