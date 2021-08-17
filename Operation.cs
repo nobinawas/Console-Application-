@@ -11,18 +11,10 @@ namespace ConsoleApplication
         static void Main(string[] args)
         {
             
-
-            // Varriable base operation in Console Application with C# .NET Framework 
-            int x = 100;
-            int y = 50;
-            Console.WriteLine(x + y);
-            Console.ReadLine();
-           
             // C Sharp Operation Varriable Base 
-            /* int x = 100 + 5;
+             int x = 100 + 5;
              Console.WriteLine(x);
              Console.ReadLine();
-            */
 
             /* int sum1 = 100 + 50;
             int sum2 = sum1 + 250;
