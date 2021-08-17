@@ -1,0 +1,6 @@
+E:\Software Development (ASP Net)\Main Source\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+E:\Software Development (ASP Net)\Main Source\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\Software Development (ASP Net)\Main Source\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\Software Development (ASP Net)\Main Source\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.CoreCompileInputs.cache
+E:\Software Development (ASP Net)\Main Source\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+E:\Software Development (ASP Net)\Main Source\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
